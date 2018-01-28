@@ -1,6 +1,4 @@
-# Data Wrangling_OpenStreetMap-NY
-
-Project OpenStreet Map Data Wrangling - Summary
+Data Wrangling: Project OpenStreet Map - NY
 ----------------------------------------------------------------------------------------------------
 
 #### Map Area
@@ -83,7 +81,7 @@ and update them to make sure they all consistent. Then we will transform
 the file to json and import to Mongo for futher analysis and management.
 For this part the whole process I will put it in another file. Here is
 the detailed processing part
-[Link](http://localhost:8888/notebooks/Desktop/project/Udacity/data_analyst/data_Wrangling/OpenstreetMap/Project%20OpenStreet%20Map%20Data%20Wrangling%20-%20Processing%20Part.ipynb)
+[Link].(https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/Project%20OpenStreet%20Map%20Data%20Wrangling%20-%20Processing%20Part.ipynb)
 
 ### Overview of the Dataset
 
