@@ -197,9 +197,7 @@ In [4]:
 
     plt.show()
 
-![alt text][visualization]
-
-[visulization: https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/img/image.png "Visual"
+![visualization](img/Visual.png)
 
 #### Suggestion
 
