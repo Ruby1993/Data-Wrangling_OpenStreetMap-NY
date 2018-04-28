@@ -83,7 +83,7 @@ For this part the whole process I will put it in another file. Here is
 the detailed processing part
 [Link].(https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/Project%20OpenStreet%20Map%20Data%20Wrangling%20-%20Processing%20Part.ipynb)
 
-### Overview of the Dataset
+#### Overview of the Dataset
 
 After importing the map file into MongoDB, I will take advantage of the
 query in MongoDB to explore our dataset to get more info.
