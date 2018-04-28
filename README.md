@@ -81,7 +81,7 @@ and update them to make sure they all consistent. Then we will transform
 the file to json and import to Mongo for futher analysis and management.
 For this part the whole process I will put it in another file. Here is
 the detailed processing part
-[Link].(https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/Project%20OpenStreet%20Map%20Data%20Wrangling%20-%20Processing%20Part.ipynb)
+[Link]:(https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/Project%20OpenStreet%20Map%20Data%20Wrangling%20-%20Processing%20Part.ipynb)
 
 #### Overview of the Dataset
 
@@ -183,7 +183,7 @@ In [2]:
 In [3]:
 
     df=pd.DataFrame(RESULT)
-    #df
+  
 
 In [4]:
 
@@ -197,7 +197,11 @@ In [4]:
 
     plt.show()
 
-##### Suggestion
+![alt text][visualization]
+
+[visulization: https://github.com/Ruby1993/Data-Wrangling_OpenStreetMap-NY/blob/master/img/image.png "Visual"
+
+#### Suggestion
 
 As what we could see above, in the existent restaurants on openstreet
 map, there are still a lot type of cuisine info that were missing. If we
